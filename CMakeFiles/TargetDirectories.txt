@@ -1,0 +1,9 @@
+/home/j-f/cpp_indie_studio/CMakeFiles/install/strip.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/install/local.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/list_install_components.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/bomberman.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/install.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/package.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/package_source.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/edit_cache.dir
+/home/j-f/cpp_indie_studio/CMakeFiles/rebuild_cache.dir
